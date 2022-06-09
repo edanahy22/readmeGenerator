@@ -12,7 +12,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'How is your app installed? '
+        message: 'Describe how your app is installed.'
     },
     {
         type: 'input',
@@ -27,12 +27,12 @@ const questions = [
     {
         type: 'input',
         name: 'contribute',
-        message: 'How can others contribute to your project?',
+        message: 'Describe how others can contribute to your app.',
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'what tests were used?',
+        message: 'Describe the tests used in the app.',
     },
     {
         type: 'input',
@@ -48,7 +48,12 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    promptUser(questions)
+    .then((answers) => fs.writeFileSync('README.md', writeToFile(answers)))
+    .then(() => console.log('Successfully wrote to index.html'))
+    .catch((err) => console.error(err));
+}
 
 // Function call to initialize app
 init();

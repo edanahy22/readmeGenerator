@@ -56,6 +56,18 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.license)}
 
+  ## Contributing
+  ${data.contribute}
+
+  ## Tests
+  ${data.tests}
+
+  ## Questions
+  ${data.questions}
+
+  [GitHub](${data.github})
+
+  [Email](${data.email})
 
 `;
 }

@@ -1,8 +1,8 @@
-# t
+# Test Title
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  t
+  Example description of project
 
   ## Table of Contents
   * [Installation](#installation)
@@ -18,24 +18,24 @@
   * [Questions](#questions)
 
   ## Installation
-  t
+  It is installed using ...
 
   ## Usage
-  t
+  This application can be used...
 
   ## License 
     This project is licensed under the MIT license.
 
   ## Contributing
-  t
+  Others can contribute by..
 
   ## Tests
-  t
+  Tests used were...
 
   ## Questions
-  t
+  Questions can be reported by...
 
-  [GitHub](t)
+  [GitHub](github.com/edanahy22)
 
-  [Email](t)
+  [Email](edanahy22@aol.com)
 

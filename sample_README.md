@@ -1,23 +1,21 @@
-# T
-  ![GitHub license](https://img.shields.io/badge/license-GPL_3.0-blue.svg)
+# t
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  T
+  t
 
   ## Table of Contents
-  *[Installation](#installation)
+  * [Installation](#installation)
 
-  *[Usage](#usage)
+  * [Usage](#usage)
 
-  
-*[License](#license)
+  * [License](#license)
 
+  * [Contributing](#contribute)
 
-  *[Contributing](#contribute)
+  * [Tests](#test)
 
-  *[Tests](#test)
-
-  *[Questions](#questions)
+  * [Questions](#questions)
 
   ## Installation
   t
@@ -26,7 +24,7 @@
   t
 
   ## License 
-    This project is licensed under the GPL_3.0 license.
+    This project is licensed under the MIT license.
 
   ## Contributing
   t

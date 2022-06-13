@@ -2,7 +2,7 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  Example description of project
+  This is a description of the project.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -18,24 +18,24 @@
   * [Questions](#questions)
 
   ## Installation
-  It is installed using ...
+  The project is installed by...
 
   ## Usage
-  This application can be used...
+  The client can use this project by...
 
   ## License 
     This project is licensed under the MIT license.
 
   ## Contributing
-  Others can contribute by..
+  Others can contribute to the project by...
 
   ## Tests
-  Tests used were...
+  Tests used on the app were...
 
   ## Questions
-  Questions can be reported by...
+  Others should report issues by...
 
   [GitHub](github.com/edanahy22)
 
-  [Email](edanahy22@aol.com)
+  [Email](mailto:edanahy22@aol.com)
 

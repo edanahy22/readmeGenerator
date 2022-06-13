@@ -1,43 +1,35 @@
-# t
-  ![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)
+# README Generator
 
-  ## Description 
-  t
+## Description
+It is important to have a high-quality README for any project that you develop. This application helps you accomplish that task. README Generator assists you in generating your own README with the use of a command-line application. 
 
-  ## Table of Contents
-  *[Installation](#installation)
+## Table of Contents
 
-  *[Usage](#usage)
+[Usage](#Usage)
 
-  
-*[License](#license)
+[Installation](#Installation)
 
+[Questions](#Questions)
 
-  *[Contributing](#contribute)
+## Development
+This application was developed using javaScript, node, and Inquirer package.
 
-  *[Tests](#test)
+## Usage
+In the command-line, the user inputs "node index.js" to run the application.
 
-  *[Questions](#questions)
+The user is prompted with questions to fill out information about their README, including the title, description, Installation, Usage, Contributing, License, Tests, and Questions. Then the user will be asked to input their email and GitHub username so others have a way to contact them with their questions.
 
-  ## Installation
-  t
+Once the user answers the prompts, a READMME is generated containing all of the user input information. The README will include a title,table of content, a license badge, and all of the user-input information.
 
-  ## Usage
-  t
+## Installation
+To run this application, the user must have node.js installed on their device and a system for running command-line applications, such as terminal.
 
-  ## License 
-    This project is licensed under the APACHE_2.0 license.
+To run this application, [Inquirer package](https://www.npmjs.com/package/inquirer) needs to be installed.
 
-  ## Contributing
-  t
+## Questions
+If you have any questions or note any issues with this application please contact me at:
 
-  ## Tests
-  t
+[Github](github.com/edanahy22)
 
-  ## Questions
-  t
-
-  [GitHub](t)
-
-  [Email](t)
+[Email](mailto:elainedanahy2022@u.northwestern.edu)
 

@@ -69,7 +69,7 @@ const questions = [
 function init() {
     inquirer
     .prompt(questions)
-    .then((data) => fs.writeFileSync('README.md', generateMarkdown(data)))
+    .then((data) => fs.writeFileSync('sample_README.md', generateMarkdown(data)))
     .then(() => console.log('Successfully wrote to ReadMe'))
     .catch((err) => console.error(err));
 }

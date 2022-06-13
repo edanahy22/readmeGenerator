@@ -33,7 +33,7 @@ To run this application, [Inquirer package](https://www.npmjs.com/package/inquir
 ## Questions
 If you have any questions or note any issues with this application please contact me at:
 
-[Github](github.com/edanahy22)
+[Github](https://www.github.com/edanahy22)
 
 [Email](mailto:elainedanahy2022@u.northwestern.edu)
 

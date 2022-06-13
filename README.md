@@ -23,7 +23,7 @@ Once the user answers the prompts, a READMME is generated containing all of the 
 
 ![Screenshot](./utils/Screen%20Shot%202022-06-13%20at%204.21.31%20PM.png)
 
-![Video Walk-through](https://drive.google.com/file/d/1OvUmfMQTlzHf4gag64AlKxj7wbHyJB0V/view)
+[Video Walk-through](https://drive.google.com/file/d/1OvUmfMQTlzHf4gag64AlKxj7wbHyJB0V/view)
 
 ## Installation
 To run this application, the user must have node.js installed on their device and a system for running command-line applications, such as terminal.
